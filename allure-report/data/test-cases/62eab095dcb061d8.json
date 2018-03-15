@@ -1,0 +1,142 @@
+{
+  "uid" : "62eab095dcb061d8",
+  "name" : "Should be display error message when invalid login cradentials are entered",
+  "fullName" : "To test the Angular login functionality.Should be display error message when invalid login cradentials are entered",
+  "historyId" : "5031a6ad53239744dcfa834c8f5c236",
+  "time" : {
+    "start" : 1521141598923,
+    "stop" : 1521141601198,
+    "duration" : 2275
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dd91414030f7a7f1",
+      "name" : "Screenshot",
+      "source" : "dd91414030f7a7f1.png",
+      "type" : "image/png",
+      "size" : 20330
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should be display error message when invalid login cradentials are entered"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "92b975646e5043b4",
+      "status" : "failed",
+      "statusDetails" : "Failed: No element found using locator: by.model(\"model[options.ky]\")",
+      "time" : {
+        "start" : 1521141502471,
+        "stop" : 1521141503508,
+        "duration" : 1037
+      }
+    }, {
+      "uid" : "c0f1b2365344a7dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521141473008,
+        "stop" : 1521141475322,
+        "duration" : 2314
+      }
+    }, {
+      "uid" : "1f7bf7ac15bd0705",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521141253353,
+        "stop" : 1521141255825,
+        "duration" : 2472
+      }
+    }, {
+      "uid" : "886677d476ae4732",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521141194967,
+        "stop" : 1521141197233,
+        "duration" : 2266
+      }
+    }, {
+      "uid" : "ccd4047468924274",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521141105985,
+        "stop" : 1521141108393,
+        "duration" : 2408
+      }
+    }, {
+      "uid" : "a215912a1d21877",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521136346207,
+        "stop" : 1521136348447,
+        "duration" : 2240
+      }
+    }, {
+      "uid" : "6718fc525aabfbe9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521136251732,
+        "stop" : 1521136255069,
+        "duration" : 3337
+      }
+    }, {
+      "uid" : "93eac9508fb2d8f9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521135491076,
+        "stop" : 1521135493326,
+        "duration" : 2250
+      }
+    }, {
+      "uid" : "d62e97a6f1c390ac",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521135275802,
+        "stop" : 1521135278111,
+        "duration" : 2309
+      }
+    }, {
+      "uid" : "d14b09c38e97a429",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521134996380,
+        "stop" : 1521134998526,
+        "duration" : 2146
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "62eab095dcb061d8.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,3 @@
+"Status","Name","Duration in ms","Description"
+"passed","To test the Angular login functionality.Should be display error message when invalid login cradentials are entered","2275",""
+"passed","To test the Angular login functionality.Should be able to login registration form successfully and logout","11546",""

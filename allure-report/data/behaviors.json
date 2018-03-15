@@ -1,0 +1,29 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Should be able to login registration form successfully and logout",
+    "uid" : "734a54677e187fa2",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1521141587377,
+      "stop" : 1521141598923,
+      "duration" : 11546
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  }, {
+    "name" : "Should be display error message when invalid login cradentials are entered",
+    "uid" : "62eab095dcb061d8",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1521141598923,
+      "stop" : 1521141601198,
+      "duration" : 2275
+    },
+    "flaky" : true,
+    "parameters" : [ ]
+  } ]
+}

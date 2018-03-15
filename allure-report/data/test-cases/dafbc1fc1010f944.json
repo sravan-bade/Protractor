@@ -1,0 +1,59 @@
+{
+  "uid" : "dafbc1fc1010f944",
+  "name" : "Should be able to login registration form successfully and logout",
+  "fullName" : "To test the Angular login functionality.Should be able to login registration form successfully and logout",
+  "historyId" : "fcacd88939c07a77c3236ae04729be39",
+  "time" : {
+    "start" : 1521141495379,
+    "stop" : 1521141502471,
+    "duration" : 7092
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "dc947d98b3daad2b",
+      "name" : "Screenshot",
+      "source" : "dc947d98b3daad2b.png",
+      "type" : "image/png",
+      "size" : 19557
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should be able to login registration form successfully and logout"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "dafbc1fc1010f944.json",
+  "parameterValues" : [ ]
+}

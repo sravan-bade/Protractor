@@ -1,0 +1,21 @@
+[ {
+  "uid" : "734a54677e187fa2",
+  "name" : "Should be able to login registration form successfully and logout",
+  "time" : {
+    "start" : 1521141587377,
+    "stop" : 1521141598923,
+    "duration" : 11546
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "62eab095dcb061d8",
+  "name" : "Should be display error message when invalid login cradentials are entered",
+  "time" : {
+    "start" : 1521141598923,
+    "stop" : 1521141601198,
+    "duration" : 2275
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

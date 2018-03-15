@@ -1,0 +1,59 @@
+{
+  "uid" : "d62e97a6f1c390ac",
+  "name" : "Should be display error message when invalid login cradentials are entered",
+  "fullName" : "To test the Angular login functionality.Should be display error message when invalid login cradentials are entered",
+  "historyId" : "5031a6ad53239744dcfa834c8f5c236",
+  "time" : {
+    "start" : 1521135275802,
+    "stop" : 1521135278111,
+    "duration" : 2309
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5e84051a424e29cc",
+      "name" : "Screenshot",
+      "source" : "5e84051a424e29cc.png",
+      "type" : "image/png",
+      "size" : 20330
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should be display error message when invalid login cradentials are entered"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "d62e97a6f1c390ac.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1521141188510' stop='1521141197233'>
+    <name>To test the Angular login functionality</name>
+    <title>To test the Angular login functionality</title>
+    <test-cases>
+        <test-case start='1521141188511' status='passed' stop='1521141194967'>
+            <name>Should be able to login registration form successfully and logout</name>
+            <title>Should be able to login registration form successfully and logout</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f7e829b7-ba8d-4e86-93af-408e9e6db273-attachment.png' type='image/png' size='19557'/>
+            </attachments>
+        </test-case>
+        <test-case start='1521141194967' status='passed' stop='1521141197233'>
+            <name>Should be display error message when invalid login cradentials are entered</name>
+            <title>Should be display error message when invalid login cradentials are entered</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='29198480-19d6-4680-a193-73acd1b2d127-attachment.png' type='image/png' size='20330'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
