@@ -1,5 +1,5 @@
 var util = require('util')
-var gmail_page = require('../page/gmail_page.js')
+var gmail_page = require('../pages/gmail_page.js')
 
 describe('To test the gmail login functionality', function(){
 	
