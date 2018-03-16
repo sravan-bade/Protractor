@@ -5,7 +5,7 @@ Just step into the folder and run protractor tests as usual:
 - `cd node_modules/protractor/bin/`
 - `webdriver-manager update`
 - `webdriver-manager start`
-- `protractor conf.js`
+- `npm test`
 
 
 Action items pending:

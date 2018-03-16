@@ -1,12 +1,12 @@
 {
-  "uid" : "a5ac1fbf8aa1bc19",
-  "name" : "Should be able to login registration form successfully and logout",
-  "fullName" : "To test the Angular login functionality.Should be able to login registration form successfully and logout",
-  "historyId" : "fcacd88939c07a77c3236ae04729be39",
+  "uid" : "2cf5b5e69403610c",
+  "name" : "Should be display error message when invalid login cradentials are entered",
+  "fullName" : "To test the Angular login functionality.Should be display error message when invalid login cradentials are entered",
+  "historyId" : "5031a6ad53239744dcfa834c8f5c236",
   "time" : {
-    "start" : 1521141188511,
-    "stop" : 1521141194967,
-    "duration" : 6456
+    "start" : 1521177441626,
+    "stop" : 1521177444021,
+    "duration" : 2395
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -17,17 +17,17 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "5cdb18cc7c30b2c5",
+      "uid" : "ae1702351f95a3f9",
       "name" : "Screenshot",
-      "source" : "5cdb18cc7c30b2c5.png",
+      "source" : "ae1702351f95a3f9.png",
       "type" : "image/png",
-      "size" : 19557
+      "size" : 20330
     } ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : true,
     "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -38,7 +38,7 @@
     "value" : "To test the Angular login functionality"
   }, {
     "name" : "testMethod",
-    "value" : "Should be able to login registration form successfully and logout"
+    "value" : "Should be display error message when invalid login cradentials are entered"
   }, {
     "name" : "package",
     "value" : "To test the Angular login functionality"
@@ -48,12 +48,14 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : true,
-  "retry" : true,
+  "hidden" : false,
+  "retry" : false,
   "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "a5ac1fbf8aa1bc19.json",
+  "source" : "2cf5b5e69403610c.json",
   "parameterValues" : [ ]
 }

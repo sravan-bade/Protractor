@@ -1,12 +1,12 @@
 {
-  "uid" : "dafbc1fc1010f944",
+  "uid" : "ad071d05d076175c",
   "name" : "Should be able to login registration form successfully and logout",
   "fullName" : "To test the Angular login functionality.Should be able to login registration form successfully and logout",
   "historyId" : "fcacd88939c07a77c3236ae04729be39",
   "time" : {
-    "start" : 1521141495379,
-    "stop" : 1521141502471,
-    "duration" : 7092
+    "start" : 1521177428983,
+    "stop" : 1521177441626,
+    "duration" : 12643
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -17,17 +17,17 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "dc947d98b3daad2b",
+      "uid" : "57dc8a2593d2d939",
       "name" : "Screenshot",
-      "source" : "dc947d98b3daad2b.png",
+      "source" : "57dc8a2593d2d939.png",
       "type" : "image/png",
       "size" : 19557
     } ],
     "parameters" : [ ],
-    "stepsCount" : 0,
-    "hasContent" : true,
     "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 0,
+    "hasContent" : true
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -48,12 +48,14 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : true,
-  "retry" : true,
+  "hidden" : false,
+  "retry" : false,
   "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "dafbc1fc1010f944.json",
+  "source" : "ad071d05d076175c.json",
   "parameterValues" : [ ]
 }

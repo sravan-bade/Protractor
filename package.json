@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Automation testing using protractor and jasmine with Allure report",
   "scripts": {
+    "pretest": "del allure-report allure-results logs /f /S /q",
     "test": "protractor conf.js",
     "posttest": "allure generate allure-results --clean -o allure-report || true"
   },

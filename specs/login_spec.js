@@ -1,5 +1,4 @@
 var util = require('util')
-var gmail_page = require('../pages/gmail_page.js')
 
 describe('To test the Angular login functionality', function(){
 	
@@ -16,7 +15,7 @@ describe('To test the Angular login functionality', function(){
 		element(by.id('username')).sendKeys("angular");
 		element(by.id('password')).sendKeys("password");
         expect(element(by.buttonText('Login')).getAttribute('disabled')).toBe('true');
-		element(by.model('model[options.ky]')).sendKeys("Sravan");
+		element(by.model('model[options.key]')).sendKeys("Sravan");
 		element(by.buttonText('Login')).click();
 		
 		browser.wait(EC.urlContains('login'), 5000);

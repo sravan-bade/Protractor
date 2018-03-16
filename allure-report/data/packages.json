@@ -5,27 +5,27 @@
     "name" : "To test the Angular login functionality",
     "children" : [ {
       "name" : "Should be able to login registration form successfully and logout",
-      "uid" : "734a54677e187fa2",
+      "uid" : "ad071d05d076175c",
       "parentUid" : "1ea928315c2c39a64171b76be8c12fbb",
       "status" : "passed",
       "time" : {
-        "start" : 1521141587377,
-        "stop" : 1521141598923,
-        "duration" : 11546
+        "start" : 1521177428983,
+        "stop" : 1521177441626,
+        "duration" : 12643
       },
-      "flaky" : true,
+      "flaky" : false,
       "parameters" : [ ]
     }, {
       "name" : "Should be display error message when invalid login cradentials are entered",
-      "uid" : "62eab095dcb061d8",
+      "uid" : "2cf5b5e69403610c",
       "parentUid" : "1ea928315c2c39a64171b76be8c12fbb",
       "status" : "passed",
       "time" : {
-        "start" : 1521141598923,
-        "stop" : 1521141601198,
-        "duration" : 2275
+        "start" : 1521177441626,
+        "stop" : 1521177444021,
+        "duration" : 2395
       },
-      "flaky" : true,
+      "flaky" : false,
       "parameters" : [ ]
     } ],
     "uid" : "1ea928315c2c39a64171b76be8c12fbb"
