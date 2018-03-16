@@ -1,9 +1,10 @@
-# How to run the system test
+# Protractor
 
-Just step into the folder and run protractor tests as usual:
-- `npm install - Will install package.json files` 
+How to run the system test - Just step into the folder and run below command:
 - `npm test`
-- `Note: In case of webdriver issues run node ./node_modules/protractor/bin/webdriver-manager update`
+For first time usage, please run below commands in advance:
+- `npm install`
+- `node ./node_modules/protractor/bin/webdriver-manager update` - make sure protractor is not installed globally
 
 Features:
 - `Protractor with Jasmine framework`
