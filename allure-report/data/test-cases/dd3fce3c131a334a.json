@@ -1,12 +1,12 @@
 {
-  "uid" : "d5a5e064e9966788",
-  "name" : "Should display error message when invalid login cradentials are entered",
-  "fullName" : "To test the Angular login functionality.Should display error message when invalid login cradentials are entered",
-  "historyId" : "4f58d76ea4fc9d3f655d3922d04e6765",
+  "uid" : "dd3fce3c131a334a",
+  "name" : "Should login and logout Registration form successfully with valid cradentials",
+  "fullName" : "To test the Angular login functionality.Should login and logout Registration form successfully with valid cradentials",
+  "historyId" : "c4b427aaff7babaea15565995cfb7262",
   "time" : {
-    "start" : 1521191066287,
-    "stop" : 1521191068512,
-    "duration" : 2225
+    "start" : 1521216884798,
+    "stop" : 1521216890146,
+    "duration" : 5348
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -17,17 +17,17 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "2503cdf2d3242bbf",
+      "uid" : "ee9a5542766ae172",
       "name" : "Screenshot",
-      "source" : "2503cdf2d3242bbf.png",
+      "source" : "ee9a5542766ae172.png",
       "type" : "image/png",
-      "size" : 18717
+      "size" : 19557
     } ],
     "parameters" : [ ],
-    "hasContent" : true,
     "stepsCount" : 0,
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false
+    "hasContent" : true,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 1
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -38,7 +38,7 @@
     "value" : "To test the Angular login functionality"
   }, {
     "name" : "testMethod",
-    "value" : "Should display error message when invalid login cradentials are entered"
+    "value" : "Should login and logout Registration form successfully with valid cradentials"
   }, {
     "name" : "package",
     "value" : "To test the Angular login functionality"
@@ -48,14 +48,12 @@
   } ],
   "parameters" : [ ],
   "links" : [ ],
-  "hidden" : false,
-  "retry" : false,
+  "hidden" : true,
+  "retry" : true,
   "extra" : {
-    "severity" : "normal",
-    "retries" : [ ],
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "d5a5e064e9966788.json",
+  "source" : "dd3fce3c131a334a.json",
   "parameterValues" : [ ]
 }

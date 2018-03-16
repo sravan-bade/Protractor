@@ -1,20 +1,20 @@
 [ {
-  "uid" : "d5a5e064e9966788",
+  "uid" : "d03611de0f763786",
   "name" : "Should display error message when invalid login cradentials are entered",
   "time" : {
-    "start" : 1521191066287,
-    "stop" : 1521191068512,
-    "duration" : 2225
+    "start" : 1521220131116,
+    "stop" : 1521220133549,
+    "duration" : 2433
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "f7692395c4108ad2",
+  "uid" : "fa2efafcb3ab60cb",
   "name" : "Should login and logout Registration form successfully with valid cradentials",
   "time" : {
-    "start" : 1521191048270,
-    "stop" : 1521191066287,
-    "duration" : 18017
+    "start" : 1521220119851,
+    "stop" : 1521220131116,
+    "duration" : 11265
   },
   "status" : "passed",
   "severity" : "normal"
