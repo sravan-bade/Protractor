@@ -2,6 +2,7 @@
 
 How to run the system test - Just step into the folder and run below command:
 - `npm test`
+
 For first time usage, please run below commands in advance:
 - `npm install`
 - `node ./node_modules/protractor/bin/webdriver-manager update` - make sure protractor is not installed globally
