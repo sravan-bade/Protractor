@@ -1,12 +1,12 @@
 {
-  "uid" : "ad071d05d076175c",
-  "name" : "Should be able to login registration form successfully and logout",
-  "fullName" : "To test the Angular login functionality.Should be able to login registration form successfully and logout",
-  "historyId" : "fcacd88939c07a77c3236ae04729be39",
+  "uid" : "f7692395c4108ad2",
+  "name" : "Should login and logout Registration form successfully with valid cradentials",
+  "fullName" : "To test the Angular login functionality.Should login and logout Registration form successfully with valid cradentials",
+  "historyId" : "c4b427aaff7babaea15565995cfb7262",
   "time" : {
-    "start" : 1521177428983,
-    "stop" : 1521177441626,
-    "duration" : 12643
+    "start" : 1521191048270,
+    "stop" : 1521191066287,
+    "duration" : 18017
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -17,17 +17,17 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "57dc8a2593d2d939",
+      "uid" : "993dae12d215c706",
       "name" : "Screenshot",
-      "source" : "57dc8a2593d2d939.png",
+      "source" : "993dae12d215c706.png",
       "type" : "image/png",
       "size" : 19557
     } ],
     "parameters" : [ ],
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
+    "hasContent" : true,
     "stepsCount" : 0,
-    "hasContent" : true
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -38,7 +38,7 @@
     "value" : "To test the Angular login functionality"
   }, {
     "name" : "testMethod",
-    "value" : "Should be able to login registration form successfully and logout"
+    "value" : "Should login and logout Registration form successfully with valid cradentials"
   }, {
     "name" : "package",
     "value" : "To test the Angular login functionality"
@@ -56,6 +56,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "ad071d05d076175c.json",
+  "source" : "f7692395c4108ad2.json",
   "parameterValues" : [ ]
 }

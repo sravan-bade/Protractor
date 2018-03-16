@@ -1,12 +1,12 @@
 {
-  "uid" : "2cf5b5e69403610c",
-  "name" : "Should be display error message when invalid login cradentials are entered",
-  "fullName" : "To test the Angular login functionality.Should be display error message when invalid login cradentials are entered",
-  "historyId" : "5031a6ad53239744dcfa834c8f5c236",
+  "uid" : "d5a5e064e9966788",
+  "name" : "Should display error message when invalid login cradentials are entered",
+  "fullName" : "To test the Angular login functionality.Should display error message when invalid login cradentials are entered",
+  "historyId" : "4f58d76ea4fc9d3f655d3922d04e6765",
   "time" : {
-    "start" : 1521177441626,
-    "stop" : 1521177444021,
-    "duration" : 2395
+    "start" : 1521191066287,
+    "stop" : 1521191068512,
+    "duration" : 2225
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -17,17 +17,17 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "ae1702351f95a3f9",
+      "uid" : "2503cdf2d3242bbf",
       "name" : "Screenshot",
-      "source" : "ae1702351f95a3f9.png",
+      "source" : "2503cdf2d3242bbf.png",
       "type" : "image/png",
-      "size" : 20330
+      "size" : 18717
     } ],
     "parameters" : [ ],
-    "attachmentsCount" : 1,
-    "shouldDisplayMessage" : false,
+    "hasContent" : true,
     "stepsCount" : 0,
-    "hasContent" : true
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
   },
   "afterStages" : [ ],
   "labels" : [ {
@@ -38,7 +38,7 @@
     "value" : "To test the Angular login functionality"
   }, {
     "name" : "testMethod",
-    "value" : "Should be display error message when invalid login cradentials are entered"
+    "value" : "Should display error message when invalid login cradentials are entered"
   }, {
     "name" : "package",
     "value" : "To test the Angular login functionality"
@@ -56,6 +56,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "2cf5b5e69403610c.json",
+  "source" : "d5a5e064e9966788.json",
   "parameterValues" : [ ]
 }

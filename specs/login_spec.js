@@ -8,7 +8,7 @@ describe('To test the Angular login functionality', function(){
 	});
 	
 //Angular application automation for registration journey
-	it('Should be able to login registration form successfully and logout',function(){
+	it('Should login and logout Registration form successfully with valid cradentials',function(){
 		logger.info("Scenario 1");
 		var EC = protractor.ExpectedConditions;
 		browser.wait(EC.visibilityOf(element(by.id('username'))), 10000);
@@ -27,7 +27,7 @@ describe('To test the Angular login functionality', function(){
 		browser.wait(EC.urlContains('login'), 5000);	
 	});
 
-	it('Should be display error message when invalid login cradentials are entered',function(){
+	it('Should display error message when invalid login cradentials are entered',function(){
 		logger.info("Scenario 2");
 		element(by.id('username')).sendKeys("angula");
 		element(by.id('password')).sendKeys("password");

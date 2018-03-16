@@ -4,26 +4,26 @@
   "children" : [ {
     "name" : "To test the Angular login functionality",
     "children" : [ {
-      "name" : "Should be able to login registration form successfully and logout",
-      "uid" : "ad071d05d076175c",
+      "name" : "Should login and logout Registration form successfully with valid cradentials",
+      "uid" : "f7692395c4108ad2",
       "parentUid" : "1ea928315c2c39a64171b76be8c12fbb",
       "status" : "passed",
       "time" : {
-        "start" : 1521177428983,
-        "stop" : 1521177441626,
-        "duration" : 12643
+        "start" : 1521191048270,
+        "stop" : 1521191066287,
+        "duration" : 18017
       },
       "flaky" : false,
       "parameters" : [ ]
     }, {
-      "name" : "Should be display error message when invalid login cradentials are entered",
-      "uid" : "2cf5b5e69403610c",
+      "name" : "Should display error message when invalid login cradentials are entered",
+      "uid" : "d5a5e064e9966788",
       "parentUid" : "1ea928315c2c39a64171b76be8c12fbb",
       "status" : "passed",
       "time" : {
-        "start" : 1521177441626,
-        "stop" : 1521177444021,
-        "duration" : 2395
+        "start" : 1521191066287,
+        "stop" : 1521191068512,
+        "duration" : 2225
       },
       "flaky" : false,
       "parameters" : [ ]
