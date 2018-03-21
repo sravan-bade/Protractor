@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1521347267252' stop='1521347278015'>
+    <name>To test the Angular binding functionality</name>
+    <title>To test the Angular binding functionality</title>
+    <test-cases>
+        <test-case start='1521347267253' status='passed' stop='1521347270958'>
+            <name>should not have any previous results</name>
+            <title>should not have any previous results</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='7dd2fef0-28b1-4440-ba30-725bc6cfe378-attachment.png' type='image/png' size='15605'/>
+            </attachments>
+        </test-case>
+        <test-case start='1521347270958' status='passed' stop='1521347274573'>
+            <name>Should display calculation results for performed Arthematic operations and should save results in table</name>
+            <title>Should display calculation results for performed Arthematic operations and should save results in table</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='2bec17e0-c08d-4a65-a17f-5a801d3c9483-attachment.png' type='image/png' size='18670'/>
+            </attachments>
+        </test-case>
+        <test-case start='1521347274573' status='passed' stop='1521347277334'>
+            <name>Should display calculation results for performed Arthematic operations and should save new results in table</name>
+            <title>Should display calculation results for performed Arthematic operations and should save new results in table</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='ac64ee2c-7691-4be0-be18-6262341b59ca-attachment.png' type='image/png' size='18815'/>
+            </attachments>
+        </test-case>
+        <test-case start='1521347277334' status='passed' stop='1521347278014'>
+            <name>Should display calculation results for performed Arthematic operations and should save new results in table1</name>
+            <title>Should display calculation results for performed Arthematic operations and should save new results in table1</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5f82757d-9b59-4d84-957e-caf8daf02c93-attachment.png' type='image/png' size='15605'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

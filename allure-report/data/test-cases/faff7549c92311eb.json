@@ -1,0 +1,45 @@
+{
+  "uid" : "faff7549c92311eb",
+  "name" : "Should display error message when invalid login cradentials are entered",
+  "fullName" : "To test the Angular login functionality.Should display error message when invalid login cradentials are entered",
+  "historyId" : "4f58d76ea4fc9d3f655d3922d04e6765",
+  "time" : {
+    "start" : 1521229966993,
+    "stop" : 1521229966994,
+    "duration" : 1
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should display error message when invalid login cradentials are entered"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "faff7549c92311eb.json",
+  "parameterValues" : [ ]
+}

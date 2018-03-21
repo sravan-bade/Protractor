@@ -1,0 +1,170 @@
+{
+  "uid" : "fdcf0a5b40fef233",
+  "name" : "Should display calculation results for performed Arthematic operations and should save new results in table1",
+  "fullName" : "To test the Angular binding functionality.Should display calculation results for performed Arthematic operations and should save new results in table1",
+  "historyId" : "73965a91345c9e9857fa9d57c29b23d2",
+  "time" : {
+    "start" : 1521351328693,
+    "stop" : 1521351334397,
+    "duration" : 5704
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "c373ccec68ffc53d",
+      "name" : "Screenshot",
+      "source" : "c373ccec68ffc53d.png",
+      "type" : "image/png",
+      "size" : 15605
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should display calculation results for performed Arthematic operations and should save new results in table1"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "4dd8e9f98902fe23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521351237487,
+        "stop" : 1521351241633,
+        "duration" : 4146
+      }
+    }, {
+      "uid" : "40042263fd8360f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521351044397,
+        "stop" : 1521351049891,
+        "duration" : 5494
+      }
+    }, {
+      "uid" : "84df5cca14f2c5ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521347548855,
+        "stop" : 1521347552755,
+        "duration" : 3900
+      }
+    }, {
+      "uid" : "dbccb015bfb7a2f4",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521347452992,
+        "stop" : 1521347461762,
+        "duration" : 8770
+      }
+    }, {
+      "uid" : "31a2c4ece51bb919",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521347343704,
+        "stop" : 1521347347728,
+        "duration" : 4024
+      }
+    }, {
+      "uid" : "c5b8e59f4f9faa3e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521347277334,
+        "stop" : 1521347278014,
+        "duration" : 680
+      }
+    }, {
+      "uid" : "94ec77b5e529b82f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521347169927,
+        "stop" : 1521347170650,
+        "duration" : 723
+      }
+    }, {
+      "uid" : "c3ae560bd2716a10",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521346124432,
+        "stop" : 1521346125713,
+        "duration" : 1281
+      }
+    }, {
+      "uid" : "9930222bd1060217",
+      "status" : "failed",
+      "statusDetails" : "Failed: Index out of bound. Trying to access element at index: 1, but there are only 1 elements that match locator by.model(\"operator\")",
+      "time" : {
+        "start" : 1521345542227,
+        "stop" : 1521345543043,
+        "duration" : 816
+      }
+    }, {
+      "uid" : "644b2bc23b85bdd2",
+      "status" : "failed",
+      "statusDetails" : "Failed: i is not defined",
+      "time" : {
+        "start" : 1521345489425,
+        "stop" : 1521345490070,
+        "duration" : 645
+      }
+    }, {
+      "uid" : "9898fac7e38bdf3d",
+      "status" : "failed",
+      "statusDetails" : "Failed: by.tagname is not a function",
+      "time" : {
+        "start" : 1521345418576,
+        "stop" : 1521345419185,
+        "duration" : 609
+      }
+    }, {
+      "uid" : "f3f930f97a9909e7",
+      "status" : "failed",
+      "statusDetails" : "Failed: by.tagname is not a function",
+      "time" : {
+        "start" : 1521345309150,
+        "stop" : 1521345309770,
+        "duration" : 620
+      }
+    }, {
+      "uid" : "5bdfe689245b93a3",
+      "status" : "failed",
+      "statusDetails" : "Failed: by.tagname is not a function",
+      "time" : {
+        "start" : 1521345206586,
+        "stop" : 1521345211786,
+        "duration" : 5200
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fdcf0a5b40fef233.json",
+  "parameterValues" : [ ]
+}

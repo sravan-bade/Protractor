@@ -1,0 +1,29 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1521229962793' stop='1521229966994'>
+    <name>To test the Angular login functionality</name>
+    <title>To test the Angular login functionality</title>
+    <test-cases>
+        <test-case start='1521229962793' status='passed' stop='1521229966993'>
+            <name>Should display awesome popup on completion of multiform</name>
+            <title>Should display awesome popup on completion of multiform</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='d7cc552d-5215-41a4-96d5-8ab3c624d4b9-attachment.png' type='image/png' size='45176'/>
+            </attachments>
+        </test-case>
+        <test-case start='1521229966993' status='pending' stop='1521229966994'>
+            <name>Should display error message when invalid login cradentials are entered</name>
+            <title>Should display error message when invalid login cradentials are entered</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Temporarily disabled with xit</message>
+                <stack-trace></stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

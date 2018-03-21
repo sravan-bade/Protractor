@@ -1,0 +1,315 @@
+{
+  "uid" : "5e5c42c47bfe721d",
+  "name" : "Should display calculation results for performed Arthematic operations and should save results in table",
+  "fullName" : "To test the Angular binding functionality.Should display calculation results for performed Arthematic operations and should save results in table",
+  "historyId" : "226060fe00811b8a86dd4de0ebc87a58",
+  "time" : {
+    "start" : 1521351328692,
+    "stop" : 1521351328692,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : true,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should display calculation results for performed Arthematic operations and should save results in table"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "3f301dc7bd8c4037",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1521351237486,
+        "stop" : 1521351237486,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "d733f8d1c8017990",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1521351044396,
+        "stop" : 1521351044397,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "de9a1735b8b1ae9a",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1521347548854,
+        "stop" : 1521347548855,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "4d61191f2e8d3b38",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1521347452991,
+        "stop" : 1521347452991,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "863361b1ffb3c06c",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1521347343703,
+        "stop" : 1521347343703,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "3e35fdc1227f20ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521347270958,
+        "stop" : 1521347274573,
+        "duration" : 3615
+      }
+    }, {
+      "uid" : "c6568dd20d7b6e6a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521347163913,
+        "stop" : 1521347167011,
+        "duration" : 3098
+      }
+    }, {
+      "uid" : "5ed0a552b8bcc34f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521346117889,
+        "stop" : 1521346121415,
+        "duration" : 3526
+      }
+    }, {
+      "uid" : "e7e582f6e743c2e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521345536413,
+        "stop" : 1521345539429,
+        "duration" : 3016
+      }
+    }, {
+      "uid" : "d7d74fa351a20cfe",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521345483363,
+        "stop" : 1521345486591,
+        "duration" : 3228
+      }
+    }, {
+      "uid" : "9196c23bb33ed9f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521345412818,
+        "stop" : 1521345415824,
+        "duration" : 3006
+      }
+    }, {
+      "uid" : "d67ad4a15f326bd0",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521345302947,
+        "stop" : 1521345306372,
+        "duration" : 3425
+      }
+    }, {
+      "uid" : "495b164bee1dd2d7",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1521345206585,
+        "stop" : 1521345206585,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "99979708633f5efe",
+      "status" : "skipped",
+      "statusDetails" : "Temporarily disabled with xit",
+      "time" : {
+        "start" : 1521345168661,
+        "stop" : 1521345168662,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "dece8fb87c072e76",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521344571062,
+        "stop" : 1521344574449,
+        "duration" : 3387
+      }
+    }, {
+      "uid" : "8a1b13e9ad353f24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521344520383,
+        "stop" : 1521344523669,
+        "duration" : 3286
+      }
+    }, {
+      "uid" : "de52348db6ed6427",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521306638951,
+        "stop" : 1521306644737,
+        "duration" : 5786
+      }
+    }, {
+      "uid" : "8bca3d866058202c",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=64.0.3282.186)\n                  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1521306461993,
+        "stop" : 1521306462073,
+        "duration" : 80
+      }
+    }, {
+      "uid" : "e0c441fee18c79ca",
+      "status" : "failed",
+      "statusDetails" : "Failed: no such window: target window already closed\n                from unknown error: web view not found\n                  (Session info: chrome=64.0.3282.186)\n                  (Driver info: chromedriver=2.37.543627 (63642262d9fb93fb4ab52398be4286d844092a5e),platform=Windows NT 10.0.16299 x86_64)",
+      "time" : {
+        "start" : 1521306359764,
+        "stop" : 1521306359828,
+        "duration" : 64
+      }
+    }, {
+      "uid" : "71e91f9659b165bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1521267077845,
+        "stop" : 1521267081142,
+        "duration" : 3297
+      }
+    }, {
+      "uid" : "e06f357b74b9e9b7",
+      "status" : "failed",
+      "statusDetails" : "Expected '2' to equal '1'.",
+      "time" : {
+        "start" : 1521266507658,
+        "stop" : 1521266511144,
+        "duration" : 3486
+      }
+    }, {
+      "uid" : "a6025839aa449c96",
+      "status" : "failed",
+      "statusDetails" : "Failed: Wait timed out after 10064ms",
+      "time" : {
+        "start" : 1521266448732,
+        "stop" : 1521266459924,
+        "duration" : 11192
+      }
+    }, {
+      "uid" : "ce3d2f5d1696a947",
+      "status" : "failed",
+      "statusDetails" : "Failed: Wait timed out after 5017ms",
+      "time" : {
+        "start" : 1521266379114,
+        "stop" : 1521266385201,
+        "duration" : 6087
+      }
+    }, {
+      "uid" : "d4afac19687ab80d",
+      "status" : "failed",
+      "statusDetails" : "Expected 0 to equal 1.",
+      "time" : {
+        "start" : 1521266114783,
+        "stop" : 1521266117714,
+        "duration" : 2931
+      }
+    }, {
+      "uid" : "b8299bf7f3d44a77",
+      "status" : "failed",
+      "statusDetails" : "Expected 0 to equal 1.",
+      "time" : {
+        "start" : 1521266060982,
+        "stop" : 1521266064013,
+        "duration" : 3031
+      }
+    }, {
+      "uid" : "8e197031630961a6",
+      "status" : "failed",
+      "statusDetails" : "Expected 0 to equal 1.",
+      "time" : {
+        "start" : 1521266004221,
+        "stop" : 1521266007472,
+        "duration" : 3251
+      }
+    }, {
+      "uid" : "5d6d38aa6923a0d1",
+      "status" : "failed",
+      "statusDetails" : "Expected 0 to equal 1.",
+      "time" : {
+        "start" : 1521265722475,
+        "stop" : 1521265725493,
+        "duration" : 3018
+      }
+    }, {
+      "uid" : "3a5c0e0196f4fa16",
+      "status" : "failed",
+      "statusDetails" : "Expected '1' to equal '3'.",
+      "time" : {
+        "start" : 1521265107103,
+        "stop" : 1521265110379,
+        "duration" : 3276
+      }
+    }, {
+      "uid" : "a6e066707d13a4b6",
+      "status" : "failed",
+      "statusDetails" : "Expected '.' to equal '1'.",
+      "time" : {
+        "start" : 1521264044595,
+        "stop" : 1521264045988,
+        "duration" : 1393
+      }
+    }, {
+      "uid" : "73790acd7dd49932",
+      "status" : "failed",
+      "statusDetails" : "Failed: memory is not defined",
+      "time" : {
+        "start" : 1521263964673,
+        "stop" : 1521263965400,
+        "duration" : 727
+      }
+    }, {
+      "uid" : "3687faf3d30494f8",
+      "status" : "failed",
+      "statusDetails" : "Failed: memory is not defined",
+      "time" : {
+        "start" : 1521263934087,
+        "stop" : 1521263934827,
+        "duration" : 740
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5e5c42c47bfe721d.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,45 @@
+{
+  "uid" : "c02eca515dc0df48",
+  "name" : "should not have any previous results",
+  "fullName" : "To test the Angular binding functionality.should not have any previous results",
+  "historyId" : "4640248451a1e4ec80b6a6de720d05bc",
+  "time" : {
+    "start" : 1521347343698,
+    "stop" : 1521347343702,
+    "duration" : 4
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "skipped",
+  "statusMessage" : "Temporarily disabled with xit",
+  "statusTrace" : "",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "should not have any previous results"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "c02eca515dc0df48.json",
+  "parameterValues" : [ ]
+}

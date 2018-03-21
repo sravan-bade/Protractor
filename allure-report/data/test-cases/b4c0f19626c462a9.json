@@ -1,0 +1,59 @@
+{
+  "uid" : "b4c0f19626c462a9",
+  "name" : "Should display calculation results for performed Arthematic operations and should save new results in table",
+  "fullName" : "To test the Angular binding functionality.Should display calculation results for performed Arthematic operations and should save new results in table",
+  "historyId" : "65bfd57f8d7104d5dfc949ff01dc5aa9",
+  "time" : {
+    "start" : 1521347274573,
+    "stop" : 1521347277334,
+    "duration" : 2761
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "af0582382e3d99db",
+      "name" : "Screenshot",
+      "source" : "af0582382e3d99db.png",
+      "type" : "image/png",
+      "size" : 18815
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should display calculation results for performed Arthematic operations and should save new results in table"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "b4c0f19626c462a9.json",
+  "parameterValues" : [ ]
+}

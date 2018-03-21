@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1521232995144' stop='1521232999690'>
+    <name>To test the Angular login functionality</name>
+    <title>To test the Angular login functionality</title>
+    <test-cases>
+        <test-case start='1521232995144' status='passed' stop='1521232999690'>
+            <name>Should display awesome popup on completion of multiform</name>
+            <title>Should display awesome popup on completion of multiform</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5e1cfc4f-5d43-4b2f-b61f-b0512dba07b1-attachment.png' type='image/png' size='49647'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

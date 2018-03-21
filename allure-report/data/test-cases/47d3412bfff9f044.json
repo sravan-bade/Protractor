@@ -1,0 +1,59 @@
+{
+  "uid" : "47d3412bfff9f044",
+  "name" : "should not have any previous results",
+  "fullName" : "To test the Angular binding functionality.should not have any previous results",
+  "historyId" : "4640248451a1e4ec80b6a6de720d05bc",
+  "time" : {
+    "start" : 1521266373989,
+    "stop" : 1521266379114,
+    "duration" : 5125
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "5ab7f7fc8c464a3f",
+      "name" : "Screenshot",
+      "source" : "5ab7f7fc8c464a3f.png",
+      "type" : "image/png",
+      "size" : 15605
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "should not have any previous results"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular binding functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "47d3412bfff9f044.json",
+  "parameterValues" : [ ]
+}

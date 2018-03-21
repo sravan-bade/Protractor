@@ -14,7 +14,7 @@ exports.config = {
 
   // Spec patterns are relative to the current working directory when
   // protractor is called.
-  specs: ['specs/*_spec.js'],
+  specs: ['specs/calculation_spec.js'],
 
   // Options to be passed to Jasmine.
   jasmineNodeOpts: {
@@ -38,7 +38,10 @@ exports.config = {
 },
 
 onPrepare: function () {
-    logger = log4js.getLogger('protractorLog4js');
+  browser.manage().window().maximize();
+  browser.manage().timeouts().pageLoadTimeout(40000);
+  browser.manage().timeouts().implicitlyWait(25000);
+  logger = log4js.getLogger('protractorLog4js');
 	var AllureReporter = require('jasmine-allure-reporter');
     jasmine.getEnv().addReporter(new AllureReporter());
     jasmine.getEnv().afterEach(function(done){

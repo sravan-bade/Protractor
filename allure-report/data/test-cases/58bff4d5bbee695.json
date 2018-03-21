@@ -1,0 +1,59 @@
+{
+  "uid" : "58bff4d5bbee695",
+  "name" : "Should login and logout Registration form successfully with valid cradentials",
+  "fullName" : "To test the Angular login functionality.Should login and logout Registration form successfully with valid cradentials",
+  "historyId" : "c4b427aaff7babaea15565995cfb7262",
+  "time" : {
+    "start" : 1521232863913,
+    "stop" : 1521232869722,
+    "duration" : 5809
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "9d7712ba0aead708",
+      "name" : "Screenshot",
+      "source" : "9d7712ba0aead708.png",
+      "type" : "image/png",
+      "size" : 22946
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should login and logout Registration form successfully with valid cradentials"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "58bff4d5bbee695.json",
+  "parameterValues" : [ ]
+}

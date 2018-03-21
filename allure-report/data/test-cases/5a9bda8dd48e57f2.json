@@ -1,0 +1,59 @@
+{
+  "uid" : "5a9bda8dd48e57f2",
+  "name" : "Should display awesome popup on completion of multiform",
+  "fullName" : "To test the Angular login functionality.Should display awesome popup on completion of multiform",
+  "historyId" : "3726e8a9b145b3ba8d971b2f939df9ba",
+  "time" : {
+    "start" : 1521231521612,
+    "stop" : 1521231527309,
+    "duration" : 5697
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7794d5b7808d405c",
+      "name" : "Screenshot",
+      "source" : "7794d5b7808d405c.png",
+      "type" : "image/png",
+      "size" : 45176
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testClass",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "testMethod",
+    "value" : "Should display awesome popup on completion of multiform"
+  }, {
+    "name" : "package",
+    "value" : "To test the Angular login functionality"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "5a9bda8dd48e57f2.json",
+  "parameterValues" : [ ]
+}

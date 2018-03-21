@@ -1,4 +1,4 @@
-  {
+{
   "name": "protractor_jasmine",
   "version": "1.0.0",
   "description": "Automation testing using protractor and jasmine with Allure report",
