@@ -6,11 +6,12 @@ exports.config = {
   
   // Capabilities to be passed to the webdriver instance.
   capabilities: {
-    'browserName': 'chrome',
-	chromeOptions: {
-        args: ["--headless", "--disable-gpu", "--window-size=800x600"]
-    }
-  },
+  browserName: 'firefox',
+  
+  'moz:firefoxOptions': {
+     args: [ "--headless" ]
+   }
+},
 
   // Framework to use. Jasmine is recommended.
   framework: 'jasmine2',
