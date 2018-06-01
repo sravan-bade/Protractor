@@ -9,3 +9,7 @@ install:
 
 script:
   - npm test
+
+notifications:
+  email:
+    - sravankumarreddy.bade@gmail.com
