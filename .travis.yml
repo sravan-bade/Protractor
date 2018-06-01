@@ -5,7 +5,7 @@ node_js:
 
 before_script:
   - npm install
-  - npm webdriver-manager update
+  - webdriver-manager update
 
 script:
   - npm test
