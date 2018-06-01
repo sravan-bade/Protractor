@@ -13,7 +13,7 @@ script:
 notifications:
   email:
     recipients:
-      - one@example.com
-      - other@example.com
+      - sravankumarreddy.bade@cognizant.com
+      - sravankumarreddy.bade@gmail.com
     on_success: always # default: change
     on_failure: always # default: always
