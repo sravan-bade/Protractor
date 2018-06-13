@@ -58,7 +58,7 @@ describe('To test the Angular binding functionality', function(){
         });
 	});
     
-    xit('Should display calculation results for performed Arthematic operations and should save new results in table1',function(){
+    xit('Should display calculation results for performed Arthematic operations and should save new results in table2',function(){
 		logger.info("Table Handling scenario 4");
 		//var EC = protractor.ExpectedConditions;
 		//browser.wait(EC.visibilityOf(element(by.model('first'))), 10000);
