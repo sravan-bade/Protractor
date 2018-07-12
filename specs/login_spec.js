@@ -14,7 +14,7 @@ describe('To test the Angular login functionality', function(){
 		browser.wait(EC.visibilityOf(element(by.id('username'))), 10000);
 		element(by.id('username')).sendKeys("angular");
 		element(by.id('password')).sendKeys("password");
-        expect(element(by.buttonText('Login')).getAttribute('disabled')).toBe('true');
+        	expect(element(by.buttonText('Login')).getAttribute('disabled')).toBe('false');
 		element(by.model('model[options.key]')).sendKeys("Sravan");
 		element(by.buttonText('Login')).click();
 		
